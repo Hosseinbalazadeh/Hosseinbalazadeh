@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Hosseinbalazadeh
-- 👀 I’m interested in math
 - 🌱 I’m currently learning c
 - 📫 How to reach me hosseinbalazadeht@gmail.com
 
